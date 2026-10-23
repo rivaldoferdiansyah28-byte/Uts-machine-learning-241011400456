@@ -9,26 +9,10 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 * **Nama:** Rivaldo Ferdiansyah
 * **NIM:** 241011400456
 * **Kelas:** Reg B
-* **Random State:** 56
+* **Random State:** ## 📂 Struktur Repositori
 
----
 
-## 📂 Struktur Repositori
-
-```text
-├── Ads_Data.csv              # Dataset Linear Regression (Biaya Iklan vs Penjualan)
-├── Email_Data.csv            # Dataset Logistic Regression (Filter Spam)
-├── uts_ml_rivaldo.ipynb      # Jupyter Notebook berisi kode lengkap pengerjaan UTS
-└── README.md                 # Dokumentasi repositori
-```
-
----
-
-## 📌 Rincian Jawaban & Hasil Pengerjaan UTS
-
----
-
-### Bagian A – Linear Regression (35%)
+### Bagian A – Linear Regression
 
 #### Soal A1 – Load & Visualisasi Data
 * **Jumlah baris data**: 40 baris.
@@ -79,7 +63,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 
 ---
 
-### Bagian B – Logistic Regression (40%)
+### Bagian B – Logistic Regression
 
 #### Soal B1 – Load & Visualisasi Data
 * **Total data**: 60 email.
@@ -138,7 +122,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 
 ---
 
-### Bagian C – Pemahaman Konsep (15%)
+### Bagian C – Pemahaman Konsep
 
 * **Jawaban C1**: Logistic Regression dinamakan "regression" karena basis matematikanya menggunakan model regresi linier untuk menghitung log-odds dari target biner. **Fungsi sigmoid** berperan mengubah output kontinu dari regresi linier tersebut menjadi nilai probabilitas antara $0$ dan $1$.
 * **Jawaban C2**: Normal equation menghitung solusi analitik secara langsung menggunakan matriks invers (sangat cepat untuk dataset kecil, namun lambat $O(n^3)$ untuk fitur besar). Gradient descent adalah metode optimasi iteratif berbasis turunan yang sangat ideal digunakan ketika ukuran dataset sangat besar.
