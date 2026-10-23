@@ -9,7 +9,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 * **Nama:** Rivaldo Ferdiansyah
 * **NIM:** 241011400456
 * **Kelas:** Reg B
-* **Random State:** ## 📂 Struktur Repositori
+* **Random State:56
 
 
 ### Bagian A – Linear Regression
