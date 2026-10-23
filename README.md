@@ -136,11 +136,3 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 * Hasil koefisien dari implementasi NumPy manual sama persis dengan `sklearn.linear_model.LinearRegression`. Untuk Logistic Regression, terdapat sedikit perbedaan kecil karena `sklearn` secara default menggunakan solver `lbfgs` dengan regularisasi L2 ($C=1.0$), sedangkan implementasi manual kita menggunakan gradient descent murni tanpa regularisasi (`penalty=None`).
 
 ---
-
-## 🚀 Cara Menjalankan Notebook
-
-1. Pastikan pustaka yang dibutuhkan sudah terinstal:
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
-   ```
-2. Buka Jupyter Notebook dan jalankan file `uts_ml_rivaldo.ipynb` secara berurutan (*Run All*).
