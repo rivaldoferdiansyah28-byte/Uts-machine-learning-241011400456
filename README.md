@@ -64,10 +64,3 @@ Seluruh 5 pertanyaan konsep pada notebook sudah dijawab lengkap, mencakup:
 * Pada **Logistic Regression**, saat regularisasi scikit-learn dinonaktifkan (`penalty=None`), hasil akurasi pada data testing sama persis dengan kode Gradient Descent manual.
 
 ---
-
-## Berkas dalam Repositori
-
-* `README.md` : Dokumentasi identitas dan ringkasan hasil UTS
-* `tugas_UTS.ipynb` : Jupyter Notebook lengkap dengan kode, grafik, dan jawaban analisis
-* `Ads_Data.csv` : Dataset untuk Linear Regression
-* `Email_Data.csv` : Dataset untuk Logistic Regression
